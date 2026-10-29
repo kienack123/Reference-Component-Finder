@@ -1,0 +1,17 @@
+{
+  "name": "com.kienack123.component-reference-finder",
+  "version": "1.0.0",
+  "displayName": "Component Reference Finder",
+  "description": "Finds who is holding a reference to a Component / GameObject / asset across open scenes, the prefab stage, prefab assets, ScriptableObjects and unopened scenes. Editor only.",
+  "unity": "6000.2",
+  "author": {
+    "name": "KienTran",
+    "url": "https://github.com/kienack123"
+  },
+  "keywords": [
+    "editor",
+    "references",
+    "finder",
+    "tools"
+  ]
+}
